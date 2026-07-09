@@ -92,19 +92,19 @@ Excel dashboard project with data cleaning, pivot tables, KPIs, charts, and insi
 
 ###### **### Dashboard**
 
-###### **!\[Dashboard](image/Dashboard.png)**
+###### **!\[Dashboard](Images/Dashboard.png)**
 
 ###### 
 
 ###### **### Pivot Tables**
 
-###### **!\[Pivot Tables](image/PivotTables.png)**
+###### **!\[Pivot Tables](Images/PivotTables.png)**
 
 ###### 
 
 ###### **### Insights Sheet**
 
-###### **!\[Insights](image/Insights.png)**
+###### **!\[Insights](Images/Insights.png)**
 
 
 
