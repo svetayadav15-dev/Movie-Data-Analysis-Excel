@@ -1,6 +1,5 @@
    **IMDb Movie Dataset Analysis**
 Excel dashboard project with data cleaning, pivot tables, KPIs, charts, and insights.
-# &#x20;                           **IMDb Movie Dataset Analysis**
 
 ### 📌 Project Overview
 
